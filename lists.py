@@ -1,4 +1,4 @@
-# list = lista são usadas para guardar multiplos dados itens com uma variavel única
+# list = lista são usadas para guardar multiplos dados itens com uma variavel única. Parece uma array do js
 
 food = ['pizza', 'pasta', 'burger']  # lista com 3 itens
 print(food)
