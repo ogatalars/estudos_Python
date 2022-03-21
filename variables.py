@@ -25,3 +25,9 @@
 # print(human)
 # print(type(human))
 # print("Are you a human ?: " + str(human))
+
+nome = "Felipe"
+last_name = "Ogata"  # string
+age = 31  # int
+heigth = 1.78  # float
+chovendo_hoje = True  # bool
